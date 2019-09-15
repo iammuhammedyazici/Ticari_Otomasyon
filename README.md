@@ -3,9 +3,10 @@
 
 - Veri tabanını aktardıktan ve ayarları yapıldıktan sonra kullanıma hazır bir otomasyondur.
 
-- ![Screenshot_101](https://user-images.githubusercontent.com/32926347/64924979-ff7dc200-d7f2-11e9-8438-580631d73d11.png)
 
 - ![Screenshot_97](https://user-images.githubusercontent.com/32926347/64924946-9a29d100-d7f2-11e9-8b3e-af43ecae97f2.png)
+
+- ![Screenshot_101](https://user-images.githubusercontent.com/32926347/64924979-ff7dc200-d7f2-11e9-8438-580631d73d11.png)
 
 - ![Screenshot_98](https://user-images.githubusercontent.com/32926347/64924947-9a29d100-d7f2-11e9-8180-641eacdc9f9e.png)
 
